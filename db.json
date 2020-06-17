@@ -22,8 +22,8 @@
   },
   {
     "id_product": 126,
-    "product_name": "Клавиатура геймерская",
-    "price": 6600
+    "product_name": "Смартфон",
+    "price": 16000
   },
   {
     "id_product": 458,
@@ -32,13 +32,13 @@
   },
   {
     "id_product": 124,
-    "product_name": "Ноутбук игровой",
+    "product_name": "Игровой ноутбук",
     "price": 85600
   },
   {
     "id_product": 455,
-    "product_name": "Мышка геймерская",
-    "price": 5000
+    "product_name": "Планшет",
+    "price": 20000
   },
   {
     "id_product": 101,
