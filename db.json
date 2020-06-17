@@ -1,7 +1,7 @@
 {
   "products": [
   {
-    "id_product": 124,
+    "id_product": 125,
     "product_name": "Клавиатура",
     "price": 1600
   },
@@ -19,6 +19,46 @@
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
+  },
+  {
+    "id_product": 126,
+    "product_name": "Клавиатура геймерская",
+    "price": 6600
+  },
+  {
+    "id_product": 458,
+    "product_name": "Геймпад PS4",
+    "price": 3500
+  },
+  {
+    "id_product": 124,
+    "product_name": "Ноутбук игровой",
+    "price": 85600
+  },
+  {
+    "id_product": 455,
+    "product_name": "Мышка геймерская",
+    "price": 5000
+  },
+  {
+    "id_product": 101,
+    "product_name": "Монитор",
+    "price": 26000
+  },
+  {
+    "id_product": 437,
+    "product_name": "Геймпад Xbox",
+    "price": 3000
+  },
+  {
+    "id_product": 121,
+    "product_name": "Нетбук",
+    "price": 25600
+  },
+  {
+    "id_product": 400,
+    "product_name": "Наушники",
+    "price": 4000
   }
 ],
   "cart": {
