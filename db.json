@@ -81,37 +81,37 @@
   },
   "markers": [
     {
-      "coordinate": [59.93, 30.36],
+      "coordinates": [59.93, 30.36],
       "type": "Event",
       "title": "Awesome party"
     },
     {
-      "coordinate": [59.94, 30.34],
+      "coordinates": [59.94, 30.34],
       "type": "Location",
       "title": "New cafe"
     },
     {
-      "coordinate": [59.89, 30.37],
+      "coordinates": [59.89, 30.37],
       "type": "Event",
       "title": "Stand Up"
     },
     {
-      "coordinate": [59.95, 30.36],
+      "coordinates": [59.95, 30.36],
       "type": "Event",
       "title": "Free Concert"
     },
     {
-      "coordinate": [59.90, 30.30],
+      "coordinates": [59.90, 30.30],
       "type": "Location",
       "title": "Lame dogs bar"
     },
     {
-      "coordinate": [59.98, 30.31],
+      "coordinates": [59.98, 30.31],
       "type": "Event",
       "title": "Board games"
     },
     {
-      "coordinate": [59.96, 30.39],
+      "coordinates": [59.96, 30.39],
       "type": "Location",
       "title": "Home"
     }
