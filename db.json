@@ -1,85 +1,119 @@
 {
   "products": [
-  {
-    "id_product": 125,
-    "product_name": "Клавиатура",
-    "price": 1600
-  },
-  {
-    "id_product": 457,
-    "product_name": "Геймпад",
-    "price": 3000
-  },
-  {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
-  },
-  {
-    "id_product": 126,
-    "product_name": "Смартфон",
-    "price": 16000
-  },
-  {
-    "id_product": 458,
-    "product_name": "Геймпад PS4",
-    "price": 3500
-  },
-  {
-    "id_product": 124,
-    "product_name": "Игровой ноутбук",
-    "price": 85600
-  },
-  {
-    "id_product": 455,
-    "product_name": "Планшет",
-    "price": 20000
-  },
-  {
-    "id_product": 101,
-    "product_name": "Монитор",
-    "price": 26000
-  },
-  {
-    "id_product": 437,
-    "product_name": "Геймпад Xbox",
-    "price": 3000
-  },
-  {
-    "id_product": 121,
-    "product_name": "Нетбук",
-    "price": 25600
-  },
-  {
-    "id_product": 400,
-    "product_name": "Наушники",
-    "price": 4000
-  }
-],
-  "cart": {
-  "amount": 46600,
-  "countGoods": 2,
-  "contents": [
+    {
+      "id_product": 125,
+      "product_name": "Клавиатура",
+      "price": 1600
+    },
+    {
+      "id_product": 457,
+      "product_name": "Геймпад",
+      "price": 3000
+    },
     {
       "id_product": 123,
       "product_name": "Ноутбук",
-      "price": 45600,
-      "quantity": 1
+      "price": 45600
     },
     {
       "id_product": 456,
       "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 1
+      "price": 1000
+    },
+    {
+      "id_product": 126,
+      "product_name": "Смартфон",
+      "price": 16000
+    },
+    {
+      "id_product": 458,
+      "product_name": "Геймпад PS4",
+      "price": 3500
+    },
+    {
+      "id_product": 124,
+      "product_name": "Игровой ноутбук",
+      "price": 85600
+    },
+    {
+      "id_product": 455,
+      "product_name": "Планшет",
+      "price": 20000
+    },
+    {
+      "id_product": 101,
+      "product_name": "Монитор",
+      "price": 26000
+    },
+    {
+      "id_product": 437,
+      "product_name": "Геймпад Xbox",
+      "price": 3000
+    },
+    {
+      "id_product": 121,
+      "product_name": "Нетбук",
+      "price": 25600
+    },
+    {
+      "id_product": 400,
+      "product_name": "Наушники",
+      "price": 4000
+    }
+  ],
+  "cart": {
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+      {
+        "id_product": 123,
+        "product_name": "Ноутбук",
+        "price": 45600,
+        "quantity": 1
+      },
+      {
+        "id_product": 456,
+        "product_name": "Мышка",
+        "price": 1000,
+        "quantity": 1
+      }
+    ]
+  },
+  "markers": [
+    {
+      "coordinate": [59.93, 30.36],
+      "type": "Event",
+      "title": "Awesome party"
+    },
+    {
+      "coordinate": [59.94, 30.34],
+      "type": "Location",
+      "title": "New cafe"
+    },
+    {
+      "coordinate": [59.89, 30.37],
+      "type": "Event",
+      "title": "Stand Up"
+    },
+    {
+      "coordinate": [59.95, 30.36],
+      "type": "Event",
+      "title": "Free Concert"
+    },
+    {
+      "coordinate": [59.90, 30.30],
+      "type": "Location",
+      "title": "Lame dogs bar"
+    },
+    {
+      "coordinate": [59.98, 30.31],
+      "type": "Event",
+      "title": "Board games"
+    },
+    {
+      "coordinate": [59.96, 30.39],
+      "type": "Location",
+      "title": "Home"
     }
   ]
-},
-  "profile": {
-    "name": "typicode"
-  }
 }
