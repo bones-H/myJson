@@ -83,37 +83,44 @@
     {
       "coordinates": [59.93, 30.36],
       "type": "Event",
-      "title": "Awesome party"
+      "title": "Awesome party",
+      "id": 1
     },
     {
       "coordinates": [59.94, 30.34],
-      "type": "Location",
-      "title": "New cafe"
+      "type": "Place",
+      "title": "New Bar",
+      "id": 2
     },
     {
       "coordinates": [59.89, 30.37],
       "type": "Event",
-      "title": "Stand Up"
+      "title": "Stand Up",
+      "id": 3
     },
     {
       "coordinates": [59.95, 30.36],
       "type": "Event",
-      "title": "Free Concert"
+      "title": "Jazz Concert",
+      "id": 4
     },
     {
       "coordinates": [59.90, 30.30],
-      "type": "Location",
-      "title": "Lame dogs bar"
+      "type": "Place",
+      "title": "SoftRock Cafe",
+      "id": 5
     },
     {
-      "coordinates": [59.98, 30.31],
+      "coordinates": [59.81, 30.31],
       "type": "Event",
-      "title": "Board games"
+      "title": "Board Games",
+      "id": 6
     },
     {
-      "coordinates": [59.96, 30.39],
-      "type": "Location",
-      "title": "Home"
+      "coordinates": [59.83, 30.39],
+      "type": "Place",
+      "title": "Home",
+      "id": 7
     }
   ]
 }
